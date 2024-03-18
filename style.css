@@ -79,3 +79,6 @@ span{
     margin-left: 20px;
     color: blueviolet;
 }
+#footpix{
+    display: flex;
+}
